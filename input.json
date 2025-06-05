@@ -1,0 +1,10 @@
+[
+    {
+        "name": "input1",
+        "type": "output1"
+    },
+    {
+        "name": "output2",
+        "type": "input2"
+    }
+]
